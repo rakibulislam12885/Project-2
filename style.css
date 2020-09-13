@@ -1,0 +1,49 @@
+.navbar {
+border-bottom: 3px solid #0D72A5;
+}
+.nav-item {
+    margin-right: 20px;
+}
+.nav-link {
+    text-transform: uppercase;
+    font-size: 1.3em;
+}
+
+/* home section */
+#home-section {
+    background: url('images/home.jpg') no-repeat 0 0 / 100% 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+   margin-top: 100px !important;
+   
+}
+#home-section i {
+    font-size: 2em;
+    color: #008ED6;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+#home-section {
+    padding: 100px 0 !important;
+}
+
+/* Explore section */
+
+#explore-end i {
+    font-size: 2em;
+    color: white;
+    background: #333333;
+    padding: 10px;
+    border-radius: 5px;
+}
+/* create */
+
+#create-end i {
+    font-size: 2em;
+    color: #008ED6;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+}
